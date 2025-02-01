@@ -1,1 +1,1 @@
-# US-states
+This project is an interactive game where users enter the name of a U.S. state, and the program places the state’s name at its correct location on a map. It uses a CSV file containing state names and coordinates to position them accurately. The Tkinter module is used for the user interface, while Turtle Graphics handles map visualization and text placement.
